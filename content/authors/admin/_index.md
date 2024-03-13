@@ -14,7 +14,7 @@ organizations:
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Карапетян Мари - родилась 12.10.2006г в Тбилиси,Грузия.Студентка бакалавриата Российского университета дружбы народов.Учусь на направлении бизнес-информатика.До поступления в институт закончила Красковскую среднюю школу №55.Победительница олимпиады "Русский медвежонок",призер олимпиады по обществознанию,я хароооши человек 
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: Среднее общее образование
       institution: МОУ КСОШ №55
       year: 2023
-    - course: BSc in Artificial Intelligence
+    - course: Бакалавриат.Бизнес-информатика
       institution: Российский университет дружбы народов
       year: 2027
 
@@ -66,5 +66,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Карапетян Мари - родилась 12.10.2006г в Тбилиси,Грузия.Студентка бакалавриата Российского университета дружбы народов.Учусь на направлении бизнес-информатика.До поступления в институт закончила Красковскую среднюю школу №55.Победительница олимпиады "Русский медвежонок",я просто хароооши человек
 {style="text-align: justify;"}
