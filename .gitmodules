@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/mkarapaaa/mkarapaaa.github.io
+	branch = main
